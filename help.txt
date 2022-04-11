@@ -1,0 +1,7 @@
+-help option was used
+
+Correct format of command is:
+
+mycalculator.exe -x num1 -y num2 -operation(addition,subtraction,multiplication,division)
+
+You must choose one operation to do and use any values you chose for num1 and num2
